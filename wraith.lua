@@ -199,7 +199,7 @@ local L73 = {}
 for L74 = 1, 64 do
     L73[L74] = { stand = {}, stand_type = {}, run = {}, run_type = {}, air = {}, air_type = {}, duck = {}, duck_type = {} }
 end;
-local L75 = { ["user"] = "bloody", ["build"] = "recode" }
+local L75 = { ["user"] = "Monstry", ["build"] = "recode" }
 local L76 = L24.new_checkbox("AA", "Anti-aimbot angles", "wraith - " .. L22.lower(L75["user"]))
 local L77 = nil;
 local L78 = nil;
